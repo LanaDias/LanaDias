@@ -1,6 +1,6 @@
 - 👋 **Olá, sou @LanaDias**
 - 👀 **Interessada em:** Desenvolvimento de software.
-- 🌱 **Atualmente aprendendo:** Aprofundamento em C e introdução ao Python, com foco em ciências da computação.
+- 🌱 **Atualmente aprendendo:** Aprofundamento em C e introdução ao Pytho, cursando ciências da computação.
 - 💞️ **Buscando colaborar:** Em projetos de desenvolvimento back-end.
 - 📫 **Contato:** lana.dias@discente.ufj.edu.br
 
