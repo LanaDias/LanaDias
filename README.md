@@ -29,12 +29,6 @@ Análise e engenharia de dados
 <img alt="Data Warehouse" src="https://img.shields.io/badge/Data_Warehouse-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
 </div>
 
-### 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LanaDias&show_icons=true&theme=tokyonight&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanaDias&layout=compact&theme=tokyonight)
-
 Versionamento e colaboração
 
 <div>
@@ -42,3 +36,10 @@ Versionamento e colaboração
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 </div> <br/>
+
+### 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LanaDias&show_icons=true&theme=tokyonight&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanaDias&layout=compact&theme=tokyonight)
+
